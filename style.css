@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200&display=swap');
+
+*{
+	font-family: Raleway;
+}
+
+.navbar-collapse{
+	justify-content: flex-end;
+}
+
+
+.header{
+	background: url(https://i.pinimg.com/originals/5d/d6/29/5dd6293a07295a684a28d3223710387d.jpg);
+	
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.overlay{
+	background-color: rgba(169, 169, 169, 0.35);
+	
+	position: absolute;
+	min-width: 100%;
+	min-height: 100%;
+	left: 0;
+	top: 0;
+
+}
+
+
+
+.header_content{
+	position: absolute;
+	top: 30%;
+	padding: 2rem;
+	color: white;
+	min-width: 100%;
+
+}
+
+.dropdown-menu{
+	background-color: #343a40;
+	color: white;
+}
+
+.dropdown-menu hover {
+	background-color: #343a40;
+	color: white;
+}
+
+.about h1{
+	padding-top: 2em;
+
+	padding-bottom: 1em;
+}
+
+.abouts{
+	padding: 0 3em;
+}
+
+
+.aboutc{
+	border-right: 2px solid black;
+
+}
+
+.cars{
+	padding-top: 2em;
+
+	padding-bottom: 4em;
+color: white;
+	background-color: #343a40;
+}
+
+.cars h1{
+
+padding-top: 2em;
+padding-bottom: 1em;
+padding-left: 2em;
+padding-right: 5em;
+}
+
+.tradein{
+	padding-bottom: 4em;
+}
+
+.tradein h1{
+
+padding-top: 2em;
+padding-bottom: 1em;
+
+}
+
+.order{
+	padding-bottom: 4em;
+	background-color: #343a40;
+}
+
+.order h1{
+	padding-top: 2em;
+	padding-bottom: 1em;
+	color: white;
+}
+
+.des{
+	background-color: white;
+	color: black;
+ align-items: center;
+}
+
+.team img{
+	border: 5px solid white;
+
+}
+
+.des span{
+	color: black;
+	font-size: 0.8em;
+}
+
+.team{
+	
+	padding-bottom: 1em;
+	background-color: #343a40;
+}
+
+.order h1{
+	padding-top: 2em;
+	padding-bottom: 1em;
+	color: white;
+}
+
+
+.contact{
+	padding-bottom: 4em;
+	background-color: #343a40;
+}
